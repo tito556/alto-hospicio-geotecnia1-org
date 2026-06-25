@@ -1,0 +1,62 @@
+# Alto Hospicio
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Asentamientos](https://alto-hospicio.geotecnia1.org/asentamientos/)
+- [Cimentaciones](https://alto-hospicio.geotecnia1.org/cimentaciones/)
+- [Cimentaciones Rellenos](https://alto-hospicio.geotecnia1.org/cimentaciones-rellenos/)
+- [Cimentaciones Superficiales](https://alto-hospicio.geotecnia1.org/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://alto-hospicio.geotecnia1.org/clasificacion-suelos/)
+- [Compresion Simple](https://alto-hospicio.geotecnia1.org/compresion-simple/)
+- [Deep Soil Mixing](https://alto-hospicio.geotecnia1.org/deep-soil-mixing/)
+- [Deslizamientos](https://alto-hospicio.geotecnia1.org/deslizamientos/)
+- [Drenaje Geotecnico](https://alto-hospicio.geotecnia1.org/drenaje-geotecnico/)
+- [Drenaje Vial](https://alto-hospicio.geotecnia1.org/drenaje-vial/)
+- [Ensayo Cbr](https://alto-hospicio.geotecnia1.org/ensayo-cbr/)
+- [Ensayo Spt](https://alto-hospicio.geotecnia1.org/ensayo-spt/)
+- [Ensayos In Situ](https://alto-hospicio.geotecnia1.org/ensayos-in-situ/)
+- [Estabilidad Taludes](https://alto-hospicio.geotecnia1.org/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://alto-hospicio.geotecnia1.org/estabilizacion-cal-cemento/)
+- [Estudio Mecanica Suelos](https://alto-hospicio.geotecnia1.org/estudio-mecanica-suelos/)
+- [Excavaciones Profundas](https://alto-hospicio.geotecnia1.org/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://alto-hospicio.geotecnia1.org/excavaciones-subterraneas/)
+- [Exploracion](https://alto-hospicio.geotecnia1.org/exploracion/)
+- [Flujos Detritos](https://alto-hospicio.geotecnia1.org/flujos-detritos/)
+- [Geofisica](https://alto-hospicio.geotecnia1.org/geofisica/)
+- [Geomembranas](https://alto-hospicio.geotecnia1.org/geomembranas/)
+- [Georradar Gpr](https://alto-hospicio.geotecnia1.org/georradar-gpr/)
+- [Geotecnia Vial](https://alto-hospicio.geotecnia1.org/geotecnia-vial/)
+- [Granulometria](https://alto-hospicio.geotecnia1.org/granulometria/)
+- [Grouting](https://alto-hospicio.geotecnia1.org/grouting/)
+- [Instrumentacion Geotecnica](https://alto-hospicio.geotecnia1.org/instrumentacion-geotecnica/)
+- [Jet Grouting](https://alto-hospicio.geotecnia1.org/jet-grouting/)
+- [Laboratorio](https://alto-hospicio.geotecnia1.org/laboratorio/)
+- [Licuefaccion](https://alto-hospicio.geotecnia1.org/licuefaccion/)
+- [Limites Atterberg](https://alto-hospicio.geotecnia1.org/limites-atterberg/)
+- [Masw Vs30](https://alto-hospicio.geotecnia1.org/masw-vs30/)
+- [Mejoramiento](https://alto-hospicio.geotecnia1.org/mejoramiento/)
+- [Micropilotes](https://alto-hospicio.geotecnia1.org/micropilotes/)
+- [Microzonificacion Sismica](https://alto-hospicio.geotecnia1.org/microzonificacion-sismica/)
+- [Monitoreo Taludes](https://alto-hospicio.geotecnia1.org/monitoreo-taludes/)
+- [Muestreo Inalterado](https://alto-hospicio.geotecnia1.org/muestreo-inalterado/)
+- [Muros Contencion](https://alto-hospicio.geotecnia1.org/muros-contencion/)
+- [Muros Pantalla](https://alto-hospicio.geotecnia1.org/muros-pantalla/)
+- [Permeabilidad Campo](https://alto-hospicio.geotecnia1.org/permeabilidad-campo/)
+- [Permeabilidad Laboratorio](https://alto-hospicio.geotecnia1.org/permeabilidad-laboratorio/)
+- [Pilotes](https://alto-hospicio.geotecnia1.org/pilotes/)
+- [Pilotes Friccion Punta](https://alto-hospicio.geotecnia1.org/pilotes-friccion-punta/)
+- [Presurometro](https://alto-hospicio.geotecnia1.org/presurometro/)
+- [Respuesta Sismica](https://alto-hospicio.geotecnia1.org/respuesta-sismica/)
+- [Sismica](https://alto-hospicio.geotecnia1.org/sismica/)
+- [Suelos Expansivos](https://alto-hospicio.geotecnia1.org/suelos-expansivos/)
+- [Tablestacas](https://alto-hospicio.geotecnia1.org/tablestacas/)
+- [Taludes Y Muros](https://alto-hospicio.geotecnia1.org/taludes-y-muros/)
+- [Terraplenes Viales](https://alto-hospicio.geotecnia1.org/terraplenes-viales/)
+
+## Contact
+- Website: https://alto-hospicio.geotecnia1.org/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.

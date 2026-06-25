@@ -1,0 +1,20 @@
+{
+  "name": "Alto Hospicio",
+  "short_name": "Alto Hospici",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1B4965",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Alto Hospicio, Chile. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/alto-hospicio-2761"
+}
